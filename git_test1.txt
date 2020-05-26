@@ -2,3 +2,8 @@ gitテストやで
 
 変更してみたぞ
 
+
+git add
+git commit
+
+
